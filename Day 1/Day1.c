@@ -46,8 +46,22 @@ int main(){
     // printf("%lld", ((n+1)*n)/2);
 
     // Bài 9: Tính Tổng Sn = 1^2 + 2^2 + ... + n^2
+    // long long n;
+    // scanf("%lld", &n);
+    // long long d = (n*(n+1)*(2*n+1)/6);
+    // printf("%lld", d);
+
+    // Bài 10: Tính Tổng Sn = 1/(1*2) + 1/(2*3) + ... + 1/(n*(n+1))
+    // float n;
+    // scanf("%f", &n);
+    // printf("%.2f", n/(n+1));
+
+    // Bài 11 : Tính Tổng Sn = 2 + 4 + 6 + 8 + ... + 2n
+    // long long n;
+    // scanf("%lld", &n);
+    // printf("%lld ", (2*n+2)*n/2);
+
+    // Bài 12 :Tính Tổng Sn = -1 +2 -3 +4 -5 +6 + ... + (-1^n)*n 
     long long n;
-    scanf("%lld", &n);
-    long long d = (n * (n+1)(2 * n+1)/6);
-    printf("%lld",d);
+    
 }
