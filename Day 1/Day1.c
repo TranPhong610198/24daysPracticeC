@@ -62,6 +62,6 @@ int main(){
     // printf("%lld ", (2*n+2)*n/2);
 
     // Bài 12 :Tính Tổng Sn = -1 +2 -3 +4 -5 +6 + ... + (-1^n)*n 
-    long long n;
+
     
 }
